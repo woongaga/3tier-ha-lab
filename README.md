@@ -2,7 +2,7 @@
 ![아키텍처 다이어그램](images/흐름도.png)
 
 # 3Tier Architecture (Vagrant)
-- 사용자가 회원가입 및 로그인 하는 폼 구현
+- 회원가입 및 로그인 하는 폼 구현
 - Nginx LBs(Internal LB, External LB), Nginx web tier, PHP/Apache app tier, MariaDB, Redis, CoreDNS and automated DB backups
 - IaC: Vagrant
 
