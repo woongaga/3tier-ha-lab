@@ -1,6 +1,9 @@
 # 아키텍처
 ![아키텍처 다이어그램](images/흐름도.png)
 
+# 장애복구 후 아키텍처
+![아키텍처 다이어그램](images/장애 복구 후 흐름도.png)
+
 # 3Tier Architecture (Vagrant)
 - 회원가입 및 로그인 폼 구현
 - Nginx LBs(Internal LB, External LB), Nginx web tier, PHP/Apache app tier, MariaDB, Redis, CoreDNS and automated DB backups
