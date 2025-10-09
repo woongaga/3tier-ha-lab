@@ -1,7 +1,7 @@
 # 아키텍처
 ![아키텍처 다이어그램](images/흐름도.png)
 
-# 장애복구 후 아키텍처
+# 장애 복구 후 아키텍처
 ![아키텍처 다이어그램](images/장애복구_흐름도.png)
 
 # 3Tier Architecture (Vagrant)
